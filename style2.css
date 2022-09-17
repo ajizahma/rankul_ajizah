@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css?family=Kanit:200,300,400,700&display=swap");
+.body {
+    font-family: "Kanit", sans-serif;
+    font-weight: 300;
+    box-sizing: border-box;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.head{
+    height: 100px;
+    background-color:#425893;
+}
+
+.head h1{
+    float: left;
+    color: #fff;
+    font-size: 40px;
+    margin-top: 25px;
+    margin-left: 60px;
+    font-weight: 600;
+}
+
+.head ul li{
+    color: #fff;
+    float: right;
+    display: inline;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 38px;
+    margin-right: 60px;
+}
+
+.konten{
+    color: #425893;
+    margin-top: 40px;
+    padding-left: 60px;
+    padding-right: 60px;
+    height: 410px;
+    background-color: #fff;
+}
+
+.content4
+
+.footer{
+    background-color: #425893;
+    color: #fff;
+    text-align: center;
+    height: 50px;
+    padding-top: 10px;
+    font-size: 14px;
+}
+
+h2{
+    color: #425893;
+}
+
+p{
+    margin-top: 20px;
+}

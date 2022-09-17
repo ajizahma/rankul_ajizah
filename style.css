@@ -1,0 +1,98 @@
+
+h1{
+    color: black;
+    text-align: center;
+    font-size: 26px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, Arial;
+}
+
+.bgColor{
+    background-color: blue;
+}
+
+.body{
+    background-color: white;
+    height: 1448px;
+    margin: auto;
+    border-radius: 20px;
+    width: 50%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, Arial;
+
+}
+
+.content{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, Arial;
+    margin:"30px 30px";
+    padding: 50px;
+}
+
+p{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, Arial;
+}
+
+.image{
+    float:left;
+    margin: 30px 50px 30px 50px;
+}
+
+h2{
+    color: #222fd9;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, Arial;
+    margin-top: 30px;
+    font-size: 26px;
+}
+
+h3{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, Arial;
+    color: grey;
+    font-size: 26px;
+}
+
+.list{
+    background-color: #F3F5FE;
+    border: 1px solid #222fd9;
+    height: 280px;
+}
+
+
+div.list ul li {
+    float:left;
+    list-style-type: none;
+    margin: 20px 20px 20px 20px;
+}
+
+.kolom1{
+    width:300px;
+    height:150px;
+    background-color:#a4497f;
+}
+
+.kolom2{
+    width:300px;
+    height:150px;
+    background-color: #7084d5;
+}
+
+.kolom3{
+    width:300px;
+    height:150px;
+    background-color: #99c5f6;
+}
+
+.image2{
+    padding-top: 30px;
+}    
+
+h4{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, Arial;
+}
+
+.container{
+    padding-top: 20px;
+    width: auto;
+    display:flex;
+    grid-template-columns: repeat(auto, auto, auto);
+}
